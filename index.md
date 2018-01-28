@@ -8,6 +8,8 @@ Email: katreashish120@gmail.com
 [GitHub](https://github.com/katreashish120)
 [LinkedIn](https://www.linkedin.com/in/katreashish120)
 
+## [Resume](https://goo.gl/A7jSWL) 
+
 ## SUMMERY
 Enthusiastic NUS Software Engineering Graduate student having 4 years of experience in IT
 developing robust code for airlines and manufacturing clients. Spearheaded a team and handled
