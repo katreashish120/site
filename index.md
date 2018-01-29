@@ -10,7 +10,7 @@ Email: katreashish120@gmail.com
 
 ## [Resume](https://goo.gl/k4WWX3) 
 
-## SUMMERY
+## SUMMARY
 Enthusiastic NUS Software Engineering Graduate student having 4 years of experience in IT
 developing robust code for airlines and manufacturing clients. Spearheaded a team and handled
 many client projects, achieved customer satisfaction and received multiple appreciations for
