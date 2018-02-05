@@ -8,13 +8,29 @@ Email: katreashish120@gmail.com
 [GitHub](https://github.com/katreashish120)
 [LinkedIn](https://www.linkedin.com/in/katreashish120)
 
-## [Resume](https://goo.gl/k4WWX3) 
+## [Resume](https://goo.gl/ErJSbX) 
 
 ## SUMMARY
 Enthusiastic NUS Software Engineering Graduate student having 4 years of experience in IT
 developing robust code for airlines and manufacturing clients. Spearheaded a team and handled
 many client projects, achieved customer satisfaction and received multiple appreciations for
 punctuality and quality. A deep creative thinker.
+
+## SKILL
+Skills below are on scale of 10
+
+Skill | Proficiency
+------------ | -------------
+Java (Enterprise Edition) |       ●●●●●●●●●●
+Relational Database       |       ●●●●●●●●●●
+REST and SOAP             |       ●●●●●●●●●
+Automation and Unit Test  |       ●●●●●●●●●
+HTML, CSS, JS, XML        |       ●●●●●●●●
+Android App Development   |       ●●●●●●●●
+Cloud Computing           |       ●●●●●●●
+Machine Learning          |       ●●●●●●●
+Python                    |       ●●●●●● 
+Unity                     |       ●●●●●
 
 ## EDUCATION
 - Master of Technology (Software Engineering) National University of Singapore (Jan 2017 – Apr 2018)
@@ -70,21 +86,16 @@ Machine Learning.
 year project in Web Recommendations Using Web Usage Mining and Web Semantics under Dr
 Kodavade and Dr Shirgave. The project got Best Project Award.
 
-## SKILL
-Skills below are on scale of 10
-
-Skill | Proficiency
------------- | -------------
-Java (Enterprise Edition) |       ●●●●●●●●●●
-Relational Database       |       ●●●●●●●●●●
-REST and SOAP             |       ●●●●●●●●●
-Automation and Unit Test  |       ●●●●●●●●●
-HTML, CSS, JS, XML        |       ●●●●●●●●
-Android App Development   |       ●●●●●●●●
-Cloud Computing           |       ●●●●●●●
-Machine Learning          |       ●●●●●●●
-Python                    |       ●●●●●● 
-Unity                     |       ●●●●●
+Other projects I worked on:
+- “MedTracker” Android App: Project during core module of M Tech Project.
+- “Ashley” Android App: Project for text/voice-based chatbot implementation in Android. [Link](https://github.com/katreashish120/ashley-chat-messanger)
+- Movie Recommendation System: Machine Learning Project to recommend similar movies to
+requested input movie.
+- Job Portal Demo Website: Project to demonstrate various security features to tackle OWASP
+security risks
+- IoT Proximity Image Capturing: Project to capture image upon activity detection in a designated
+area using IoT device.
+- Vending Machine Simulator: Java Application to demonstrate various design patterns.
 
 ## ACTIVITY
 - Organizer of fresher’s welcome party, ISS-NUS 2017.
