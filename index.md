@@ -8,7 +8,7 @@ Email: katreashish120@gmail.com
 [GitHub](https://github.com/katreashish120)
 [LinkedIn](https://www.linkedin.com/in/katreashish120)
 
-## [Resume](https://goo.gl/ErJSbX) 
+## [Resume](https://drive.google.com/open?id=1bMMVqnIUVwMmfddh5wFuxILTwiD5ax1V) 
 
 ## SUMMARY
 Enthusiastic NUS Software Engineering Graduate student having 4 years of experience in IT
