@@ -30,7 +30,6 @@ Chatbots                  |       ●●●●●
 Unity                     |       ●●●●●
 HTML5, CSS, JS            |       ●●●●●
 C++, .NET                 |       ●●●●●
---------------------------|--------------------
 
 ## EDUCATION
 - Master of Technology (Software Engineering) National University of Singapore (Jan 2017 – May 2018)
